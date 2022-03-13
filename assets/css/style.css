@@ -1,14 +1,22 @@
 /* css */
 *{
-  font-family: "Helvetica", Times, serif;
+  font-family: "Times New Roman", Times, serif;
   line-height: normal;
   background-color: #DCDCDC;
   }
 
   .title {
-    font-size: xx-large;
+    font-size: 40px;
   }
 
   .subtitle {
-    font-size: x-large;
+    font-size: 30px;
+  }
+
+  .section {
+    font-size: 25px;
+  }
+
+  .paper {
+    font-size: 18px;
   }
