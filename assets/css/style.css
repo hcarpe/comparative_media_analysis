@@ -1,0 +1,14 @@
+/* css */
+*{
+  font-family: "Helvetica", Times, serif;
+  line-height: normal;
+  background-color: #DCDCDC;
+  }
+
+  .title {
+    font-size: xx-large;
+  }
+
+  .subtitle {
+    font-size: x-large;
+  }
