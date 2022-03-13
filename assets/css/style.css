@@ -24,3 +24,8 @@
   .caption {
     font-soize: 10px;
   }
+
+  .hangingindent {
+  padding-left: 48px ;
+  text-indent: -48px ;
+}
