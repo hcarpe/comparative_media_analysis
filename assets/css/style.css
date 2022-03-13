@@ -22,10 +22,11 @@
   }
 
   .caption {
-    font-soize: 10px;
+    font-size: 15px;
   }
 
   .hangingindent {
+  font-size: 18px;
   padding-left: 48px ;
-  text-indent: -48px ;
+  text-indent: -30px ;
 }
